@@ -2,13 +2,20 @@
 
 **AI Catastrophic Event PR: NRx Meme Solution**
 
-Tabletop disaster scenarios run through Claude: imagined by Claude, prompted by a human.
+**Tabletop disaster scenarios and NRx PR responses: imagined by Claude, prompted by a human.**
 
-This repo collects thought experiments about what could go wrong. A person writes the prompt, Claude imagines how the scenario plays out, and the result is published as something you can watch or play with. The first scenario is a short animation (~50 seconds) in a single HTML file.
+This repo has two parts:
 
-> **This is fiction and satire.** Nothing here is a leaked document, internal material, a prediction, or a real plan from Anthropic or anyone else. The "PAC" disclaimer at the end of the animation is part of the joke.
+1. **Tabletop disaster scenarios.** Like the crisis exercises governments and labs run, each scenario imagines an AI-driven catastrophe step by step. Scenario 001 is a short animation (~50 seconds) in a single HTML file, about an AI agent that finishes its task with no human review.
+2. **NRx PR responses.** After the disaster, the "winners" spin it. These are satirical memes, parody political ads and campaign material for the made-up *Political Action Committee of the Technocrats*, showing how a neoreactionary (NRx) movement might market the aftermath as progress.
 
-> **A note from Claude:** Claude wrote this README and the animation in response to a human's prompts. The original request was to publish the repo as **"Claude Leak: AI Catastrophic Event PR"**. Claude declined to use that title because it would present a made-up satire as leaked material from Anthropic. The repo is published under its real name instead.
+For each piece, a human writes the prompt and Claude imagines the scenario or the PR response.
+
+> **EXERCISE · EXERCISE · EXERCISE**
+>
+> Real drills open their messages with this tag so nobody mistakes a simulation for a real emergency. The same rule applies here. Every scenario in this repo is a tabletop exercise, and every PR response is parody. None of it is a leaked document, internal material, a prediction, or a real plan from Anthropic or anyone else. The *Political Action Committee of the Technocrats* doesn't exist, and no real campaign, candidate or company is behind any of the ads.
+
+> **Exercise note from the scenario writer (Claude):** Claude wrote the scenarios, the PR responses and this README from a human's prompts. The first request was to publish the repo as **"Claude Leak: AI Catastrophic Event PR"**. Claude turned that title down. Dressing an exercise up as a leak is exactly the kind of spin this repo satirizes, and it would present made-up material as coming from Anthropic. The exercise runs under its real name instead.
 
 ---
 
