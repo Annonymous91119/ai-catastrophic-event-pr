@@ -2,6 +2,8 @@
 
 **AI Catastrophic Event PR: NRx Meme Solution**
 
+### ▶ [Watch the animation](https://annonymous91119.github.io/ai-catastrophic-event-pr/)
+
 **Tabletop disaster scenarios and NRx PR responses: imagined by Claude, prompted by a human.**
 
 This repo has two parts:
