@@ -84,8 +84,6 @@ NRx started as a fringe blog movement. Over about a decade it moved into tech cu
 - **Jan 2025: the "Coronation Ball".** On the eve of Trump's second inauguration, Yarvin was treated as a guest of honor at a gala hosted by his publisher, Passage Press. ([Yahoo News](https://www.yahoo.com/news/curtis-yarvin-ideas-were-fringe-170407642.html) · [RealClearBooks](https://realclearbooks.com/2025/01/20/the_alliance_between_tech_titans_and_the_maga_faithful_1085623.html))
 - **2025: DOGE and the America Party.** Commentators compared DOGE's federal workforce cuts to Yarvin's "RAGE" idea. In July 2025 the *New York Times* reported that Musk had asked Yarvin for advice on a third party. ([NYT reprint](https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/elon-musk-consulted-curtis-yarvin-right-wing-thinker-on-third-party/) · [The Nerd Reich](https://www.thenerdreich.com/yarvin-is-the-brain-behind-doge-washington-post-reports/))
 
-**How much influence?** It's debated. Some writers call Yarvin the intellectual architect of the tech right. Others, such as [Max Read](https://maxread.substack.com/p/is-curtis-yarvin-influential), argue his influence is often exaggerated.
-
 ### Tech figures associated with NRx
 
 Many people linked to NRx ideas reject the label, and the movement has no membership. "Associated with" here means public citations, funding or friendship. It doesn't mean they've signed on to the ideology.
